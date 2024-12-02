@@ -16,20 +16,18 @@
 - **Custom Data Solutions for Diverse Industries**  - Collaborated with clients across multiple sectors to understand their unique challenges and design customised data solutions. These solutions include developing KPIs, building predictive models, and optimising business processes through advanced data analytics.  
 - **Data-Driven Strategy Development**  - Work closely with CMISA's consultants to integrate data insights into broader business strategies. This involves supporting client engagements by validating hypotheses, identifying trends, and offering recommendations that align with organisational goals and objectives.
 
-  ## Projects
+## Projects
 
-  ### Sports Shop Marketing Analysis with Power BI, Python, SQL
-
-### **Data Analysis Report: Improving Marketing Effectiveness for ShopEasy**
+### **Improving Marketing Effectiveness for ShopEasy with Power BI, Python, SQL**
 
 ---
 
-##### **Introduction**
+### **Introduction**
 As a data analyst, I was tasked with diagnosing and addressing key challenges faced by ShopEasy, an online retail business experiencing reduced customer engagement and declining conversion rates. Using a structured data science project lifecycle, I analysed data from multiple sources and provided actionable recommendations to optimise marketing strategies and enhance customer satisfaction.
 
 ---
 
-#### **1. Business Understanding**
+### **1. Business Understanding**
 **Objective**: To identify factors contributing to low customer engagement and conversion rates, optimize marketing strategies, and improve ROI.  
 **Approach**: Collaborated with the marketing and customer experience teams to define the scope, understand pain points, and establish KPIs:
 - **KPIs**: Conversion Rate, Customer Engagement Rate,and Customer Feedback Scores (Ratings).
@@ -40,7 +38,7 @@ Tools used:
 
 ---
 
-#### **2. Data Understanding**
+### **2. Data Understanding**
 **Objective**: Explore and understand data sources to uncover trends and patterns.  
 **Data Sources**:
 - Customer feedback (reviews and social media comments).  
