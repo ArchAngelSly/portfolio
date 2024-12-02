@@ -24,27 +24,27 @@
 
 ---
 
-#### **Introduction**
-As a data analyst, I was tasked with diagnosing and addressing key challenges faced by ShopEasy, an online retail business experiencing reduced customer engagement and declining conversion rates. Using a structured data science project lifecycle, I analyzed data from multiple sources and provided actionable recommendations to optimize marketing strategies and enhance customer satisfaction.
+##### **Introduction**
+As a data analyst, I was tasked with diagnosing and addressing key challenges faced by ShopEasy, an online retail business experiencing reduced customer engagement and declining conversion rates. Using a structured data science project lifecycle, I analysed data from multiple sources and provided actionable recommendations to optimise marketing strategies and enhance customer satisfaction.
 
 ---
 
-### **1. Business Understanding**
+#### **1. Business Understanding**
 **Objective**: To identify factors contributing to low customer engagement and conversion rates, optimize marketing strategies, and improve ROI.  
 **Approach**: Collaborated with the marketing and customer experience teams to define the scope, understand pain points, and establish KPIs:
-- **KPIs**: Conversion Rate, Customer Engagement Rate, Average Order Value (AOV), and Customer Feedback Scores.
+- **KPIs**: Conversion Rate, Customer Engagement Rate,and Customer Feedback Scores (Ratings).
 
 Tools used:  
 - **Microsoft Word/PowerPoint**: Documented problem statements, scope, and objectives.  
-- **Trello**: Managed project timelines and deliverables.
+- **MS Project**: Managed project timelines and deliverables.
 
 ---
 
-### **2. Data Understanding**
+#### **2. Data Understanding**
 **Objective**: Explore and understand data sources to uncover trends and patterns.  
 **Data Sources**:
 - Customer feedback (reviews and social media comments).  
-- Campaign performance metrics (click-through rates, impressions, costs).  
+- Campaign performance metrics (click-through rates, impressions, likes).  
 
 Tools used:  
 - **Microsoft SQL Server**: Accessed and queried large datasets.  
@@ -60,20 +60,19 @@ Actions Taken:
 - Engineered features, such as sentiment scores derived from text data.  
 
 Tools used:  
-- **Python**: Data cleaning using Pandas and NumPy.  
+- **Python**: Data cleaning using Pandas.  
 - **Jupyter Notebook**: Data transformations and exploratory analysis.
 
 ---
 
 ### **4. Modeling**
-**Objective**: Apply statistical and machine learning models to generate insights.  
+**Objective**: Apply statistical and data models to generate insights.  
 Actions Taken:
-- Performed sentiment analysis on customer reviews using Python's `TextBlob` library to identify common themes.  
-- Used clustering algorithms (K-Means) for customer segmentation.  
+- Performed sentiment analysis on customer reviews using Python's `nltk` library to identify common themes.  
 - Created visual models to identify conversion funnel drop-offs and high-performing campaign elements.
 
 Tools used:  
-- **Python (scikit-learn)**: Segmentation and predictive modeling.  
+- **Python (ntlk)**: Segmentation and predictive modeling.  
 - **Power BI Desktop**: Developed interactive visuals for pattern recognition.
 
 ---
@@ -82,7 +81,7 @@ Tools used:
 **Objective**: Validate findings and measure the impact of insights.  
 Actions Taken:
 - Evaluated campaign performance based on click-through rates and engagement metrics.  
-- Analyzed funnel performance to determine the stages with the highest drop-off rates.  
+- Analysed funnel performance to determine the stages with the highest drop-off rates.  
 - Assessed the relationship between sentiment scores and customer feedback ratings.
 
 Tools used:  
@@ -95,12 +94,11 @@ Tools used:
 **Objective**: Share insights with stakeholders and provide actionable recommendations.  
 Actions Taken:
 - Published interactive dashboards and reports on Power BI Service for stakeholder access.  
-- Automated updates using Power BI Gateway to ensure real-time insights.  
 - Delivered an executive presentation summarizing findings and recommendations.
 
 Tools used:  
 - **Microsoft Power BI Service**: Published dashboards and provided scheduled reporting.  
-- **Power BI Gateway**: Enabled real-time data synchronization.
+  
 
 ---
 
@@ -124,6 +122,6 @@ Tools used:
 2. **Enhanced Decision-Making**: Dashboards enabled the marketing team to track performance and iterate strategies dynamically.  
 3. **Strategic Alignment**: Insights provided a roadmap for improving customer satisfaction and optimizing marketing spend.
 
----
 
-This analysis has equipped ShopEasy with a robust data-driven approach to tackle its challenges, ensuring improved marketing outcomes and sustainable growth.
+
+
