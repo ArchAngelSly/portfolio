@@ -33,4 +33,4 @@ The project focuses on addressing the following objectives:
 2.	Enhance Customer Engagement: Evaluate marketing content performance to understand what resonates most with ArchAngel Sports’s audience.
 3.	Improve Customer Feedback Scores: Use sentiment analysis to highlight recurring pain points and positive themes in customer feedback.
 
-View Project on Github
+
