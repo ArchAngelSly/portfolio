@@ -22,15 +22,15 @@
 
 ---
 
-### **Introduction**
+#### **Introduction**
 ArchAngel Sports, an online retail platform, has been experiencing significant challenges in sustaining customer engagement and achieving satisfactory conversion rates, despite notable investments in its marketing strategies. The business has observed declining customer interactions, reduced purchase conversions, and increasing marketing costs that do not yield proportional returns. 
 
 ---
 
-### **1. Project Objectives**
+#### **1. Project Objectives**
 The project focuses on addressing the following objectives:
 1.	Increase Conversion Rates: Analyse the customer journey to identify drop-off points and propose actionable solutions to reduce them.
 2.	Enhance Customer Engagement: Evaluate marketing content performance to understand what resonates most with ArchAngel Sports’s audience.
 3.	Improve Customer Feedback Scores: Use sentiment analysis to highlight recurring pain points and positive themes in customer feedback.
 
-### To view project documentation please go to [ArchAngel Sports](https://github.com/ArchAngelSly/portfolio)
+#### To view project documentation please go to [ArchAngel Sports](https://github.com/ArchAngelSly/portfolio/tree/main/ArchAngel%20Sports%20Marketing%20Effectiveness)
