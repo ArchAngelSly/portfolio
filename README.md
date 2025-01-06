@@ -35,7 +35,7 @@ The project focuses on addressing the following objectives:
 
 ---
 
-### **2. Scraping and Profiling Data of Top 100 African Companies from Wikipedia**
+### **2. Scraping and Profiling Data of Top 100 African Companies from Wikipedia with Python**
 
 #### **Introduction**
 This project demonstrates web scraping and data profiling techniques by extracting data of the **Top 100 African Companies** from Wikipedia. Using Python, a script was developed to automate the scraping process and generate detailed exploratory insights into the dataset. The project showcases proficiency in leveraging tools like `BeautifulSoup`, `requests`, and `pandas-profiling` to transform unstructured web data into actionable insights. 
