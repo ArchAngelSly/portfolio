@@ -8,7 +8,7 @@
 - Advanced Programme in Risk Management | University of South Africa (2016)
 - Certificate in Business Accounting  Chartered Institute of Management Accountants (2015)
 - Microsoft Certified Power BI  Data Analyst ( Credential No. 807E4BC56B0BBDB5, Certification number: F7483C-85E546)
-- Microsoft Certified Azure Data Scientist Associate ( Credential No. Pending - Exam Date - 19 December 2024 )
+- Microsoft Certified Azure Data Scientist Associate ( Credential No. Pending - Exam Date - 28 January 2025 )
 
 ## Work Experience
 **Data Analyst (Consultant) - Centre for Management & Innovation South Africa (January 2015 - Present)**
