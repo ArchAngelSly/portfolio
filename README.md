@@ -67,3 +67,44 @@ This project emphasizes the power of automation and data-driven analysis, provid
 #### To view project documentation please go to [Top 100 African Companies](https://github.com/ArchAngelSly/portfolio/tree/main/Top%20African%20Companies%20-%20Data%20Scraping%20-%20Wikipedia)
 ---
 
+### 3. Industry Performance Analysis for African Countries with Microsoft Excel Power Query & Tableau Desktop Public
+
+#### **Executive Summary**
+This project showcases an **Industry Performance Analysis Dashboard** for African countries , designed to empower decision-making by presenting key performance metrics for various industries. The dashboard provides practical insights for potential investors, allowing them to evaluate industry trends and performance to inform investment strategies.
+
+#### **Project Overview**
+The dashboard focuses on:
+- **Market Value vs. Revenue Correlation**: Highlights the relationship between market value and revenue across sectors,industries and companies.
+- **Performance Highlights**: Visuals that showcase leading and lagging industries based on:
+  - Average Annual Growth.
+  - Compound Annual Growth Rate (CAGR) for 2, 3, and 5 years.
+  
+#### **Objectives**
+- Provide a **concise yet intuitive** tool for evaluating industry performance trends.
+- Highlight top-performing industries while identifying lagging sectors to support investment decision-making.
+- Deliver an analytical framework for prioritising investment opportunities by showcasing growth consistency and market dominance.
+
+#### **Key Features and KPIs**
+- **Growth Metrics**: Evaluation of annual growth rates and multi-year CAGR trends.
+- **Market Trends**: Comparative analysis of revenue contributions and market value within industries.
+- **Performance Distribution**: Clear identification of industry leaders and underperformers.
+
+#### **Tools and Techniques**
+The dashboard was built using **Tableau Desktop Public**, leveraging:
+- **Data Visualisation** to ensure clarity and impactful presentation.
+- **Advanced Data Aggregation** to compute growth trends and comparative industry performance.
+- **User-Centric Design** for intuitive navigation and insight discovery.
+
+#### **Value Proposition**
+The Industry Performance Analysis Dashboard acts as a **strategic investment screening tool**, enabling investors to focus on industries with the strongest growth potential while identifying those requiring cautious evaluation. It offers a **high-level overview** of key trends, supported by actionable data for portfolio planning.
+
+This project reflects my expertise in:
+- **Data Analysis and Visualisation**: Translating complex datasets into meaningful insights.
+- **Dashboard Design**: Crafting professional, investor-focused dashboards.
+- **Strategic Thinking**: Aligning data analysis with business objectives.
+
+It stands as a prime example of my ability to bridge the gap between raw data and data-driven insights tailored for business decision-making.
+
+#### To view project documentation please go to [Industry Performance Analysis for African Countries](https://github.com/ArchAngelSly/portfolio/tree/main/Industry%20Performance%20Analysis%20-%20Africa)
+
+---
