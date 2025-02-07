@@ -108,3 +108,47 @@ It stands as a prime example of my ability to bridge the gap between raw data an
 #### To view project documentation please go to [Industry Performance Analysis for African Countries](https://github.com/ArchAngelSly/portfolio/tree/main/Industry%20Performance%20Analysis%20-%20Africa)
 
 ---
+
+### 4. South African Energy Trends (2014–2023) – Power BI Dashboard  
+
+#### **Executive Summary**  
+This project explores **South Africa’s energy generation and consumption trends and patterns from 2014 to 2023**, analysing trends in **primary energy generation, consumption, renewable energy adoption, and nuclear power developments** among other key areas. Data was sourced from **top-rated global energy databases**, cleaned using **Power Query in Excel**, and further transformed in **Power BI** using **DAX calculations**. The final **interactive dashboard**, deployed on **Power BI Service**, provides an insightful and data-driven perspective on the country's energy transition.  
+
+#### **Project Overview**  
+The project aims to **uncover trends, challenges, and opportunities** in South Africa’s energy sector by leveraging **data analytics and business intelligence tools**. It highlights the **decline in total energy consumption**, the **growth of renewable energy**, and the **shifting role of coal and nuclear power** in the country’s energy mix.  
+
+#### **Objectives**  
+- **Analyse** historical trends in **energy generation and consumption**.  
+- **Identify** key drivers behind the **shift toward renewable energy**.  
+- **Evaluate** the impact of **coal, nuclear, and renewables** on the energy landscape.  
+- **Develop** an **interactive Power BI dashboard** for data-driven decision-making.  
+
+#### **Key Features & KPIs**  
+### **Key Features:**  
+- **Trend Analysis** – Interactive charts and visualisations to track energy changes over time.  
+- **Energy Mix Breakdown** – Insights into coal, renewables, and nuclear power contributions.  
+- **Consumption Patterns** – Year-over-year comparisons of energy demand.  
+
+
+### **Main KPIs Tracked:**  
+- **Total Energy Consumption (TWh)**  
+- **Renewable Energy Growth (MW added annually)**  
+- **Coal vs. Renewables Share (%)**  
+- **Nuclear Energy Capacity (MW)**  
+
+#### **Tools & Techniques**  
+**Tools Used:**  
+- **Microsoft Excel (Power Query)** – Data wrangling, cleaning, and transformation.  
+- **Microsoft Power BI** – Data modeling, visualisation, and dashboarding.  
+- **DAX (Data Analysis Expressions)** – Advanced date table calculations and performance optimisation.  
+- **Microsoft Power BI Service** – Deployment and cloud accessibility.  
+
+#### **Value Proposition**  
+- **Insightful Data Storytelling** – Transforms raw data into meaningful, actionable insights.  
+- **Decision-Making Support** – Provides policymakers, analysts, and energy experts with data-driven intelligence.  
+- **Showcases Technical Expertise** – Demonstrates proficiency in **data analytics, Microsoft Power BI, and business intelligence**.  
+
+This project is a testament to my passion for **data-driven decision-making and advanced analytics.** 
+
+#### To view project documentation please go to [South Africa Energy Trends & Analysis (2014 - 2023)](https://github.com/ArchAngelSly/portfolio/tree/main/South%20Africa%20Energy%20Trends%20%26%20Analysis)
+---
